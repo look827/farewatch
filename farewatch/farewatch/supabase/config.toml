@@ -1,0 +1,7 @@
+project_id = "farewatch"
+
+[functions.search-flights]
+verify_jwt = false
+
+[functions.run-alerts]
+verify_jwt = false
